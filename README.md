@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">DNS Switcher</h1>
-<h6 align="center">DNS Management<h6>
+<h6 align="center">Windows DNS Management App<h6>
